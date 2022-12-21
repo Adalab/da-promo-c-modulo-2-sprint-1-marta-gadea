@@ -11,12 +11,12 @@ En el presente repositorio se encuentran 4 carpetas, correspondientes a los leng
 ## Pandas
 
 - _1-pd-series_: Definición, creación, y propósito de los Dataframes de Pandas.
-- 2-pd-cargado-y-guardado: Carga y guardado de datos en Pandas.
-- 3-pd-metodos: Principales métodos de Pandas.
-- 4-pd-filtrado: Filtrado de datos de nuestro dataset.
-- 5-pd-union-de-datos: Unión de varios DataFrames.
-- 6-pd-groupby: Método groupby()
-- 7-pd-apply: Método apply()
+- _2-pd-cargado-y-guardado_: Carga y guardado de datos en Pandas.
+- _3-pd-metodos_: Principales métodos de Pandas.
+- _4-pd-filtrado_: Filtrado de datos de nuestro dataset.
+- _5-pd-union-de-datos_: Unión de varios DataFrames.
+- _6-pd-groupby_: Método groupby()
+- _7-pd-apply_: Método apply()
 
 ## Numpy
 
