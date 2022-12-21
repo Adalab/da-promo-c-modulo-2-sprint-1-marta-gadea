@@ -18,6 +18,16 @@ En el presente repositorio se encuentran 4 carpetas, correspondientes a los leng
 - _6-pd-groupby_: Método groupby()
 - _7-pd-apply_: Método apply()
 
+Dentro de esta carpeta, se encuentra la carpeta 'Archivos', que incluye numerosas versiones de la BBDD 'attacks.csv':
+- attacks_1.csv
+- attacks_1_2.csv
+- attacks_1_3.csv
+- attacks_1_4.csv
+- attacks_adicional.csv
+- attacks_def.csv
+- attacks_historico.csv
+
+
 ## Numpy
 
 ## Estadística
