@@ -10,7 +10,7 @@ En el presente repositorio se encuentran 4 carpetas, correspondientes a los leng
 
 ## Pandas
 
-- 1-pd-series: Definición, creación, y propósito de los Dataframes de Pandas.
+- _1-pd-series_: Definición, creación, y propósito de los Dataframes de Pandas.
 - 2-pd-cargado-y-guardado: Carga y guardado de datos en Pandas.
 - 3-pd-metodos: Principales métodos de Pandas.
 - 4-pd-filtrado: Filtrado de datos de nuestro dataset.
