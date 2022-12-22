@@ -50,7 +50,6 @@ Dentro de esta carpeta, se encuentra la carpeta 'Archivos', que incluye las sigu
 - 3-vis-seaborn: Uso y manejo de la librería de Seaborn.
 
 Se incluyen, además, las BBDD utilizadas a lo largo de los ejercicios:
-- 
 
 Dentro de esta carpeta, se encuentra la carpeta 'Visualizacion2', que incluye los siguientes gráficos en formato .png, como resultado del ejercicio 3-vis-seaborn:
 - ataques-usa-spa-2000-2017: Ataques de tiburón en España y EEUU a lo largo de los años 2000- 2017 en gráficas separadas.
