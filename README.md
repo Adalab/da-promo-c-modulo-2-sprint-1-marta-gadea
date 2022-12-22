@@ -49,10 +49,11 @@ Dentro de esta carpeta, se encuentra la carpeta 'Archivos', que incluye las sigu
 - 2-vis-pers-matplotlib: Personalización de las gráficas de Matplotlib.
 - 3-vis-seaborn: Uso y manejo de la librería de Seaborn.
 
-Se incluyen, además, las BBDD utilizadas a lo largo de los ejercicios:
+Se incluyen, además, en la carpeta 'Archivos', las BBDD utilizadas a lo largo de los ejercicios [Hay un error con las etiquetas. Consultar la información a continuación]:
+- attacks_1_2.csv: Utilizado en 1-vis-matplotlib.
+- attacks_1_3.csv: Utilizado en 2-vis-pers-matplotlib.
+- attacks_1_4.csv: Utilizado en 3-vis-seaborn.
 
-Dentro de esta carpeta, se encuentra la carpeta 'Visualizacion2', que incluye los siguientes gráficos en formato .png, como resultado del ejercicio 3-vis-seaborn:
+Dentro de la carpeta 'Visualización', se encuentra la carpeta 'Visualizacion2', que incluye los siguientes gráficos en formato .png, como resultado del ejercicio 3-vis-seaborn:
 - ataques-usa-spa-2000-2017: Ataques de tiburón en España y EEUU a lo largo de los años 2000- 2017 en gráficas separadas.
 - fusion-spa-usa: Fusión de las gráficas anteriores.
-
-
